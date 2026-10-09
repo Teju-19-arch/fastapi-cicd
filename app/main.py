@@ -19,10 +19,11 @@ def students():
             "Priya",
             "Amit",
             "Sneha",
-            "Rohit"
-            "Damodar"
-            "teju"
-            "usha"
+            "Rohit",
+            "Damodar",
+            "teju",
+            "usha",
+            "sneha",
         ]
     }
 
